@@ -1,16 +1,48 @@
-## Hi there 👋
+# 권규빈 Gyubin Kwon
 
-<!--
-**kwonqbeen-prog/kwonqbeen-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 문화콘텐츠 기획 · 디지털 미디어 · 메타버스
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 학력
+
+| 기간 | 학교 | 전공 |
+|------|------|------|
+| 2019.03 — 2024.02 | 인하대학교 | 문화콘텐츠문화경영학과 (졸업) |
+| 2016.03 — 2019.02 | 한국애니메이션고등학교 | 영상연출과 (졸업) |
+
+---
+
+## 💼 경력
+
+**루트임팩트 헤이그라운드 — CX 스태프**
+`2025.06 — 2025.12`
+
+**협동조합가치공유연구소 — 기획팀 인턴**
+`2024.08 — 2024.11`
+생명보험사회공헌위원회 주최 소셜 인턴십 알파 프로젝트
+
+---
+
+## 🏆 수상
+
+| 날짜 | 대회 | 부문 / 수상 |
+|------|------|-------------|
+| 2022.10.13 | 과학기술정보통신부 주최 2022 메타버스개발자경진대회 | **우수상** |
+| 2021.12.27 | 디지털혁신공유대학사업단 주최 메타버스경진대회 인공지능부문 | **은상** |
+
+---
+
+## 📜 자격증
+
+| 취득일 | 자격명 | 발급기관 |
+|--------|--------|----------|
+| 2022.12.09 | 컴퓨터그래픽기능사 | 한국산업인력공단 |
+| 2022.06.17 | GTQ 인디자인 1급 | 한국생산성본부 |
+| 2021.11.12 | GTQ 그래픽기술자격 1급 | 한국생산성본부 |
+
+---
+
+## 📫 연락처
+
+[![Email](https://img.shields.io/badge/Email-kwonqbeen%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:kwonqbeen@gmail.com)
